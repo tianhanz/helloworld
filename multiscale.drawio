@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-23T17:20:24.694Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="6KTC56F2C6u5lVpAfmbF" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-23T17:20:32.768Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="2FxAYSBo7SaVt1CVrSTm" version="15.9.4" type="github">
   <diagram id="kzGisLi0H4hDdgbpCc58" name="Page-1">
     <mxGraphModel dx="1483" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="827" math="0" shadow="0">
       <root>
@@ -109,7 +109,7 @@
         <mxCell id="out4iCBxHCImszKJyRuK-40" value="DeepCombustion" style="whiteSpace=wrap;html=1;fontSize=28;rounded=0;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="760" y="220" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="out4iCBxHCImszKJyRuK-45" value="机器学习在燃烧多尺度建模中的应用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=38;" vertex="1" parent="1">
+        <mxCell id="out4iCBxHCImszKJyRuK-45" value="机器学习在燃烧多尺度建模中的应用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;fontSize=38;" vertex="1" parent="1">
           <mxGeometry x="257" y="5" width="620" height="50" as="geometry" />
         </mxCell>
       </root>
